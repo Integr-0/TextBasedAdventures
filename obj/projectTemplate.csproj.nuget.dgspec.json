@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Schule\\Programmieren\\Misc\\Game\\projectTemplate.csproj": {}
+    "C:\\C# Projects\\TextBasedAdventures\\projectTemplate.csproj": {}
   },
   "projects": {
-    "D:\\Schule\\Programmieren\\Misc\\Game\\projectTemplate.csproj": {
+    "C:\\C# Projects\\TextBasedAdventures\\projectTemplate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Schule\\Programmieren\\Misc\\Game\\projectTemplate.csproj",
+        "projectUniqueName": "C:\\C# Projects\\TextBasedAdventures\\projectTemplate.csproj",
         "projectName": "projectTemplate",
-        "projectPath": "D:\\Schule\\Programmieren\\Misc\\Game\\projectTemplate.csproj",
-        "packagesPath": "C:\\Users\\erikr\\.nuget\\packages\\",
-        "outputPath": "D:\\Schule\\Programmieren\\Misc\\Game\\obj\\",
+        "projectPath": "C:\\C# Projects\\TextBasedAdventures\\projectTemplate.csproj",
+        "packagesPath": "C:\\Users\\lukas_yfujc6v\\.nuget\\packages\\",
+        "outputPath": "C:\\C# Projects\\TextBasedAdventures\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\erikr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\lukas_yfujc6v\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

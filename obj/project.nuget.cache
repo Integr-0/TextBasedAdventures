@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6RoIQ/LjGxE0elKDD0AWXZF6T5/RlkZS6wumz2xx3HY9y8wdxq38oHruuWgSnHJkaH/x13mirTCawk8LquZeCA==",
+  "dgSpecHash": "9Zmy7O7cHhh8wXWVeVU0LOMVbMtZb5bik+hGq+iV3r8E2AAhPMiERdCwB4eelZFxX3TKP0IdLQhv3ivi+Fs07g==",
   "success": true,
-  "projectFilePath": "D:\\Schule\\Programmieren\\Misc\\Game\\projectTemplate.csproj",
+  "projectFilePath": "C:\\C# Projects\\TextBasedAdventures\\projectTemplate.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
